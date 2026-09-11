@@ -137,7 +137,8 @@ h1 em, h2 em { color: var(--coral); font-weight: 400; }
 .stamp { position: absolute; right: 4%; bottom: 4%; z-index: 4; display: grid; width: 112px; aspect-ratio: 1; place-items: center; padding: 1rem; color: var(--cream); background: var(--ink); border: 3px solid var(--cream); border-radius: 50%; box-shadow: 4px 4px 0 var(--coral); font-size: .72rem; font-weight: 700; line-height: 1.25; letter-spacing: .08em; text-align: center; transform: rotate(6deg); }
 
 .ticker { overflow: hidden; padding: .8rem 0; color: var(--cream); background: var(--ink); border-bottom: var(--line); }
-.ticker-track { display: flex; width: max-content; align-items: center; gap: 1.5rem; animation: ticker 25s linear infinite; font-size: .8rem; font-weight: 700; letter-spacing: .16em; }
+.ticker-track { display: flex; width: max-content; align-items: center; animation: ticker 25s linear infinite; font-size: .8rem; font-weight: 700; letter-spacing: .16em; }
+.ticker-group { display: flex; flex: 0 0 auto; min-width: 100vw; align-items: center; justify-content: space-around; gap: 1.5rem; }
 .ticker-track i { color: var(--lime); font-size: 1.1rem; }
 @keyframes ticker { to { transform: translateX(-50%); } }
 
