@@ -133,7 +133,8 @@ nav a:hover { color: var(--terracotta); text-decoration: none; }
   place-items: center;
   padding: 0;
 }
-.nav-toggle { display: none; }
+.nav-toggle { display: none; opacity: .8; transition: opacity .2s ease; }
+.nav-toggle[aria-expanded="true"] { opacity: 1; }
 .nav-overlay {
   display: none;
   position: fixed;
