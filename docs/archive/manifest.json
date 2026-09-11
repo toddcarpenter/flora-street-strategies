@@ -1,0 +1,279 @@
+{
+  "pages": {
+    "/": "index.html",
+    "/services": "services.html",
+    "/about": "about.html",
+    "/testimonials": "testimonials.html",
+    "/contact": "contact.html"
+  },
+  "assets": [
+    {
+      "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js",
+      "local": "assets\\@sqs\\polyfiller\\1.6\\legacy.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+      "local": "assets\\@sqs\\polyfiller\\1.6\\modern.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2c5e18cab442f0cf-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\cldr-resource-pack-2c5e18cab442f0cf-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-89741c7b8976e7fc-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\commerce-89741c7b8976e7fc-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd85e6ecc41abac7-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\commerce-cd85e6ecc41abac7-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-084848ee911875f5-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\common-084848ee911875f5-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-ae4c80a069203a26-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\common-ae4c80a069203a26-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-6c61d0c4ab9bc1f4-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\common-vendors-6c61d0c4ab9bc1f4-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-b318b15483dd810a-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\common-vendors-b318b15483dd810a-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-784b947826b4c445-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\common-vendors-stable-784b947826b4c445-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-a5cfdec1ae227f33-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\extract-css-moment-js-vendor-a5cfdec1ae227f33-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-84b4731d6bfce2d1-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\extract-css-runtime-84b4731d6bfce2d1-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-cde5062a51f2ae84-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\extract-css-runtime-cde5062a51f2ae84-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-2531f34db08279a1-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\performance-2531f34db08279a1-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-3a5dbd16501d18cb-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\performance-3a5dbd16501d18cb-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-1855efcbc27eae8e-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\user-account-core-1855efcbc27eae8e-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-448c2ec13d3670cd-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\user-account-core-448c2ec13d3670cd-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-51e4c647fcd6492e-min.en-US.js",
+      "local": "assets\\universal\\scripts-compressed\\visitor-site-error-reporter-51e4c647fcd6492e-min.en-US.js"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "local": "assets\\universal\\styles-compressed\\commerce-d50e5960dc9fd059-min.en-US.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-51872f14848f466d-min.en-US.css",
+      "local": "assets\\universal\\styles-compressed\\user-account-core-51872f14848f466d-min.en-US.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/449bd232-7224-4389-88f7-44b2b20f6757_1061/website.components.button.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.button\\449bd232-7224-4389-88f7-44b2b20f6757_1061\\website.components.button.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/449bd232-7224-4389-88f7-44b2b20f6757_1061/website.components.button.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.button\\449bd232-7224-4389-88f7-44b2b20f6757_1061\\website.components.button.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/f60653d1-adcc-4669-aa11-ceaa0150d81c_1065/website.components.form.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.form\\f60653d1-adcc-4669-aa11-ceaa0150d81c_1065\\website.components.form.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/f60653d1-adcc-4669-aa11-ceaa0150d81c_1065/website.components.form.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.form\\f60653d1-adcc-4669-aa11-ceaa0150d81c_1065\\website.components.form.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/a4ef49ed-7719-4864-89d9-e73a35447914_893/website.components.html.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.html\\a4ef49ed-7719-4864-89d9-e73a35447914_893\\website.components.html.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/a4ef49ed-7719-4864-89d9-e73a35447914_893/website.components.html.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.html\\a4ef49ed-7719-4864-89d9-e73a35447914_893\\website.components.html.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/f6628344-0f75-4f89-ac19-0fbf06fcb09d_891/website.components.html.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.html\\f6628344-0f75-4f89-ac19-0fbf06fcb09d_891\\website.components.html.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/f6628344-0f75-4f89-ac19-0fbf06fcb09d_891/website.components.html.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.html\\f6628344-0f75-4f89-ac19-0fbf06fcb09d_891\\website.components.html.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/18018.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\18018.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/39188.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\39188.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/39882.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\39882.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/64023.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\64023.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/92452.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\92452.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/image-effect-film-grain.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\image-effect-film-grain.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/image-effect-liquid.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\image-effect-liquid.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/image-effect-parallax.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\image-effect-parallax.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/image-effect-refracted-circles.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\image-effect-refracted-circles.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/image-effect-refracted-lines.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\image-effect-refracted-lines.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/website.components.imageFluid.shared.constants.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\website.components.imageFluid.shared.constants.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/website.components.imageFluid.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\website.components.imageFluid.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1e2f3879-4b57-4f9b-b24e-6148c296f96e_878/website.components.imageFluid.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\1e2f3879-4b57-4f9b-b24e-6148c296f96e_878\\website.components.imageFluid.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/18018.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\18018.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/39188.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\39188.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/39882.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\39882.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/64023.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\64023.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/92452.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\92452.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/image-effect-film-grain.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\image-effect-film-grain.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/image-effect-liquid.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\image-effect-liquid.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/image-effect-parallax.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\image-effect-parallax.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/image-effect-refracted-circles.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\image-effect-refracted-circles.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/image-effect-refracted-lines.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\image-effect-refracted-lines.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/website.components.imageFluid.shared.constants.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\website.components.imageFluid.shared.constants.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/website.components.imageFluid.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\website.components.imageFluid.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/847b5b18-27c5-4081-b164-1a7c5e086a77_880/website.components.imageFluid.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.imageFluid\\847b5b18-27c5-4081-b164-1a7c5e086a77_880\\website.components.imageFluid.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/4937365a-87eb-48f7-bd91-06e10bc23ecf_1285/website.components.product.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.product\\4937365a-87eb-48f7-bd91-06e10bc23ecf_1285\\website.components.product.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/4937365a-87eb-48f7-bd91-06e10bc23ecf_1285/website.components.product.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.product\\4937365a-87eb-48f7-bd91-06e10bc23ecf_1285\\website.components.product.visitor.js"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/fdfb3d1b-780a-4fb8-8297-673029f9d105_1288/website.components.shape.styles.css",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.shape\\fdfb3d1b-780a-4fb8-8297-673029f9d105_1288\\website.components.shape.styles.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/fdfb3d1b-780a-4fb8-8297-673029f9d105_1288/website.components.shape.visitor.js",
+      "local": "assets\\website-component-definition\\static-assets\\website.components.shape\\fdfb3d1b-780a-4fb8-8297-673029f9d105_1288\\website.components.shape.visitor.js"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/69ab38bc98a85e5bfb18dbd1/39d99d90-41c7-4352-be93-2b625ad7026a/FloraStreetStrategies-HorizontalLogo-Color.png",
+      "local": "assets\\content\\v1\\69ab38bc98a85e5bfb18dbd1\\39d99d90-41c7-4352-be93-2b625ad7026a\\FloraStreetStrategies-HorizontalLogo-Color.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/69ab38bc98a85e5bfb18dbd1/39d99d90-41c7-4352-be93-2b625ad7026a/FloraStreetStrategies-HorizontalLogo-Color.png?format=1500w",
+      "local": "assets\\content\\v1\\69ab38bc98a85e5bfb18dbd1\\39d99d90-41c7-4352-be93-2b625ad7026a\\FloraStreetStrategies-HorizontalLogo-Color.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/69ab38bc98a85e5bfb18dbd1/5fab2a0f-f9a4-4ff0-9f4d-3171a7958e30/FloraStreetStrategies-Emblem-Green.png",
+      "local": "assets\\content\\v1\\69ab38bc98a85e5bfb18dbd1\\5fab2a0f-f9a4-4ff0-9f4d-3171a7958e30\\FloraStreetStrategies-Emblem-Green.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/69ab38bc98a85e5bfb18dbd1/a9a068fc-b0c9-4cb5-ac83-ce9f79a7cbe4/DSCF9848+%281%29.jpg",
+      "local": "assets\\content\\v1\\69ab38bc98a85e5bfb18dbd1\\a9a068fc-b0c9-4cb5-ac83-ce9f79a7cbe4\\DSCF9848+%281%29.jpg"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/versioned-site-css/69ab38bc98a85e5bfb18dbd1/10/5c5a519771c10ba3470d8101/69ab38bd98a85e5bfb18dbd9/1823/site.css?nocustom=true",
+      "local": "assets\\static\\versioned-site-css\\69ab38bc98a85e5bfb18dbd1\\10\\5c5a519771c10ba3470d8101\\69ab38bd98a85e5bfb18dbd9\\1823\\site.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.5126e46abbeb1b3d5455e7207db09a76.js",
+      "local": "assets\\static\\vta\\5c5a519771c10ba3470d8101\\scripts\\site-bundle.5126e46abbeb1b3d5455e7207db09a76.js"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1787156543145-0MJJPDTBNWE734EUOY27/static.css",
+      "local": "assets\\static\\vta\\5c5a519771c10ba3470d8101\\versioned-assets\\1787156543145-0MJJPDTBNWE734EUOY27\\static.css"
+    },
+    {
+      "url": "https://www.florastreetstrategies.com/contact#5b07588f650c37914edd-system_desktop",
+      "local": "assets\\contact"
+    },
+    {
+      "url": "https://www.florastreetstrategies.com/services#c830b1dbc65dec12f8f6-system_desktop",
+      "local": "assets\\services"
+    }
+  ]
+}

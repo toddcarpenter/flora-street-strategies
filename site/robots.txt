@@ -1,0 +1,4 @@
+# Block all search engine crawlers from indexing this preview site.
+# Remove or replace this file with an allow-all robots.txt before going live.
+User-agent: *
+Disallow: /
