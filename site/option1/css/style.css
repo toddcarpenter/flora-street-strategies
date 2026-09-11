@@ -140,7 +140,8 @@ nav a:hover { color: var(--terracotta); text-decoration: none; }
   inset: 0;
   width: 100%;
   min-height: 100vh;
-  background: var(--sage);
+  background: rgba(96, 105, 95, .8);
+  backdrop-filter: blur(8px);
   z-index: 100;
   padding: 1.5rem;
   flex-direction: column;
@@ -179,9 +180,12 @@ nav a:hover { color: var(--terracotta); text-decoration: none; }
 body.nav-open { overflow: hidden; }
 
 @media (max-width: 700px) {
+  header .container { min-height: 88px; }
   header nav { display: none; }
-  .nav-toggle { display: grid; }
-  .logo img { height: 42px; }
+  body.nav-open header { z-index: 101; background: transparent; border-bottom-color: transparent; backdrop-filter: none; }
+  .nav-toggle { position: relative; z-index: 101; display: grid; flex: 0 0 44px; }
+  .nav-overlay .nav-close { display: none; }
+  .logo img { display: block; width: min(48vw, 210px); height: 64px; object-fit: contain; object-position: left center; }
 }
 
 /* Buttons */

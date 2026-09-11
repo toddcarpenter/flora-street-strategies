@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     overlay.classList.add('open');
     document.body.classList.add('nav-open');
     toggle.setAttribute('aria-expanded', 'true');
+    toggle.setAttribute('aria-label', 'Close menu');
+    toggle.querySelector('.hamburger-icon').textContent = '×';
     if (close) close.setAttribute('aria-expanded', 'true');
     if (moveFocus) {
       const firstLink = overlay.querySelector('a');
@@ -18,12 +20,17 @@ document.addEventListener('DOMContentLoaded', () => {
     overlay.classList.remove('open');
     document.body.classList.remove('nav-open');
     toggle.setAttribute('aria-expanded', 'false');
+    toggle.setAttribute('aria-label', 'Open menu');
+    toggle.querySelector('.hamburger-icon').textContent = '☰';
     if (close) close.setAttribute('aria-expanded', 'false');
     if (returnFocus) toggle.focus();
   }
 
   if (toggle && overlay) {
-    toggle.addEventListener('click', (e) => openMenu(e.detail === 0));
+    toggle.addEventListener('click', (e) => {
+      if (overlay.classList.contains('open')) closeMenu(e.detail === 0);
+      else openMenu(e.detail === 0);
+    });
   }
 
   if (close && overlay) {
@@ -50,8 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (e.key === 'Tab') {
-      const focusable = Array.from(overlay.querySelectorAll('a, button'));
-      if (focusable.length === 0) return;
+      const focusable = [...overlay.querySelectorAll('a'), toggle];
       const first = focusable[0];
       const last = focusable[focusable.length - 1];
 
